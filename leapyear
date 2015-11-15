@@ -1,0 +1,6 @@
+int year;
+if(year%4==0)
+print("this year is leapyear");
+else
+print(" it is not a leapyear");
+}
